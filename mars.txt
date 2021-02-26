@@ -2,3 +2,4 @@ Note on Mars:
 Cold and dry, but everything is my favorate color
 Robos are there.
 The new robot has a hellicopter to scout.
+add local copy
